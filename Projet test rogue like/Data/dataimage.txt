@@ -1,1 +1,0 @@
-soltest1.png,soltest2.png,cornertd.png,cornertg.png,cornerpd.png,cornerpg.png,murt.png,murd.png,murg.png,murp.png@
