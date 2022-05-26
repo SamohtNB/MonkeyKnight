@@ -1,6 +1,0 @@
-scout 10 100 3 True
-elf 10 100 2 True
-shaman 15 75 1 True
-big_cockroach 15 200 2 False
-bee 10 100 4 False
-praying_mantis 20 150 3
